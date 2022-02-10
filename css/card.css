@@ -6,6 +6,11 @@
     font-family: arial;
     display:inline-table;
   }
+
+  .card img {
+    width: 300px;
+    height: 470px;
+  }
   
   .title {
     color: grey;

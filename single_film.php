@@ -20,9 +20,9 @@ while ($row=mysqli_fetch_array($query))
             
             <h1><?=$row['film_title'];?></h1>
 
-            <p><?=$row['director'];?></p>
+            <h2><?=$row['director'];?></h2>
 
-            <p><?=$row['year'];?></p>
+            <h3><?=$row['year'];?></h3>
 
             <p><?=$row['description'];?></p>
 

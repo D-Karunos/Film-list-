@@ -9,7 +9,7 @@
 <body>
 
 <ul>
-  <li><a class="active" href="index.php">Visi Filmai</a></li>
-  <li><a href="add_film_form.php">+ Prideti filma</a></li>
+  <li style="float: left;"><a class="active" href="index.php">Visi Filmai</a></li>
+  <li style="float: right;"><a href="add_film_form.php">+ Prideti filma</a></li>
 </ul>
 
