@@ -1,0 +1,44 @@
+
+.profile {
+    width: 50%;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.content {
+    width: 100%;
+    height: 90%;
+}
+
+.picture{
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+
+.picture img {
+    width:100%;
+    height:100%;
+}
+
+.text{
+    float: right;
+    height: 100%;
+    width: 49%;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.buttons {
+    width: 100%;
+    height: 10%;
+    margin: auto;
+    display: flex;
+    padding: -10px;
+}
+
+.single_button {
+    width: 33%;
+    align-self: center;
+    text-align: center;
+}
